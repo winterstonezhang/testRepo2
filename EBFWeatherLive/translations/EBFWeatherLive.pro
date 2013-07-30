@@ -1,1 +1,0 @@
-include (../EBFWeatherLive.pro)
